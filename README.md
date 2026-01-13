@@ -1,6 +1,8 @@
 # GPU_homework1
 # CUDA Spiking CNN (SCNN) Inference Engine
 
+2025年秋季国科大《GPU架构与编程》
+
 这是一个基于 CUDA C++ 实现的高性能脉冲卷积神经网络（Spiking Convolutional Neural Network, SCNN）推理引擎。该项目针对 FashionMNIST 数据集，通过手写的 CUDA 核函数实现了卷积、IF（Integrate-and-Fire）神经元模型以及池化层的算子融合与批处理优化。
 
 ## 核心特性
